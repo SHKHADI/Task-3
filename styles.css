@@ -186,4 +186,12 @@
   .social-icon:hover {
     opacity: 0.8;
   }
+  @media screen and (max-width:480px)
+  {
+/*Adjusments for mobile phone*/
+  }
+  body {
+    padding-left: 60px;
+    padding-right: 60px;
+}
   
